@@ -1,0 +1,22 @@
+div>.icon-container {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+div#starshipDiv {
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    align-items: center;
+    
+}
